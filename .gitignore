@@ -1,2 +1,6 @@
+# Compiled binaries
 **/FRCUserProgram
 **.o
+
+# Eclipse metadata
+**.metadata/
